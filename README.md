@@ -10,7 +10,7 @@ Tech used: HTML, CSS, JavaScript, React, Redux, Node, Express.Js, MongoDB, Mongo
 React- and Redux-Functionality, the connection between client- and serverside as well as the JWT authentication.
 
 ### Optimizations
-It still needs an option for the users to delete their userdata from the database.
+The app still lacks an option for users to delete their userdata from the database.
 
 ### Installation
 npm install 
