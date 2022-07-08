@@ -1,5 +1,5 @@
 # Goals: My first fullstack MERN project
-A WebApp with user registration and login, where logged in users can view, post and delete their personal goals and to-do's.
+A WebApp with user registration and login, where logged-in users can view, post and delete their personal goals and to-do's.
 
 Link to project: 
 
