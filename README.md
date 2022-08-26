@@ -1,5 +1,5 @@
 # Goals: My first fullstack MERN project
-A WebApp with user registration and login, where logged-in users can view, post and delete their personal goals and to-do's. The project is based on the tutorial by Traversy Media "Learn The MERN Stack".
+A WebApp with user registration and login where logged-in users can view, post and delete their personal goals and to-do's. The project is based on the tutorial by Traversy Media "Learn The MERN Stack".
 
 ###
 Link to project: https://lizkil-goalsetter.herokuapp.com
